@@ -1,0 +1,73 @@
+.wrapper {
+	margin: 0 auto;
+	width: 950px;
+	background-image: url(images/bg.jpg);
+}
+
+.x {
+	padding: 10px 0;
+	margin: 0px 25px;
+	font-family: sans-serif;
+	color: white;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+header {
+	background-image: url(images/menu.jpg);
+	background-repeat: repeat-x;
+	height: 60px;
+	width: 900px;
+	border-radius: 5px 5px 0px 0px;
+}
+
+.logo, .meni, ul li{
+	display: inline-block;
+	list-style-type: none;
+}
+
+.meni ul li {
+	margin-right: 10px;
+    margin-top: 3px;
+}
+
+.meni {
+	float: right;
+}
+
+.opis {
+	background-image: url(images/menu.jpg);
+	display: inline-block;
+	width: 296px;
+}
+
+.upper, .lower {
+	display: inline-block;
+	margin: 1px;
+}
+
+.slika {
+	width: 250px;
+}
+
+p {
+	text-align: center;
+	font: sans-serif;
+}
+
+.container {
+	display: inline-block;
+}
+
+.container ul li {
+	display: block;
+	color: grey;
+}
+
+h4 {
+	margin: 20px 10px 20px 40px;
+	color: grey;
+}
